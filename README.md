@@ -42,7 +42,7 @@ Analista Programador y Desarrollador Full Stack con enfoque en arquitecturas mod
 
 **Bases de Datos & Cloud**
 <br/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-<square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
@@ -67,20 +67,7 @@ Analista Programador y Desarrollador Full Stack con enfoque en arquitecturas mod
 
 ---
 
-### Métricas de GitHub
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseLatorreM&show_icons=true&theme=graywhite&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLatorreM&layout=compact&theme=graywhite&hide_border=true" height="150" alt="languages graph" />
-</div>
-
----
-
 ### Contacto Profesional
 
-<a href="https://www.linkedin.com/in/josé-latorre-946713343">
-  <img src="https://img.shields.io/badge/LinkedIn-Perfil_Profesional-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:latorre.jignacio@gmail.com">
-  <img src="https://img.shields.io/badge/Email-latorre.jignacio@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/josé-latorre-946713343"></a>
+<a href="mailto:latorre.jignacio@gmail.com"></a>
