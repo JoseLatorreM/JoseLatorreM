@@ -3,7 +3,7 @@
   <h3>Analista Programador | Desarrollador Full Stack</h3>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&pause=1000&color=2C3E50&center=true&vCenter=true&width=600&lines=Especialista+en+Desarrollo+Backend+y+APIs;Experiencia+en+Python+(Django%2FFlask)+y+PHP;Desarrollo+Frontend+con+React+y+Node.js;Soluciones+en+Bases+de+Datos+SQL+y+NoSQL" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&pause=1000&color=2C3E50&center=true&vCenter=true&width=600&lines=Liderazgo+Técnico+y+Gestión+de+Proyectos;Especialista+en+Ruby+on+Rails+y+Python;Arquitectura+con+Nest.js+y+Next.js;Desarrollo+Full+Stack+Escalable" alt="Typing SVG" />
   </a>
 </div>
 
@@ -11,38 +11,45 @@
 
 ### Perfil Profesional
 
-Analista Programador titulado de INACAP con experiencia demostrable en el ciclo completo de desarrollo de software. Me especializo en la construcción de aplicaciones web escalables, la integración de sistemas mediante APIs REST y la optimización de procesos de negocio.
-
-Cuento con capacidad para diseñar arquitecturas robustas utilizando tanto bases de datos relacionales como no relacionales, y tengo un fuerte enfoque en la seguridad y el rendimiento del código. Actualmente, estoy enfocado en el desarrollo de soluciones SaaS y la implementación de lógica de negocio compleja.
+Analista Programador y Desarrollador Full Stack con enfoque en arquitecturas modernas y liderazgo de equipos. Me especializo en la construcción de soluciones robustas utilizando **Ruby on Rails**, **Python** y el ecosistema **JavaScript** (Next.js/Nest.js), priorizando siempre la escalabilidad, el rendimiento y las buenas prácticas de código.
 
 ---
 
 ### Stack Tecnológico
 
-**Backend & Lenguajes**
+**Lenguajes**
 <br/>
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
 
-**Frontend & JavaScript**
+**Frameworks Backend**
 <br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+
+**Frontend & Librerías**
+<br/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/LÖVE-E54786?style=flat-square&logo=love&logoColor=white" />
 
 **Bases de Datos & Cloud**
 <br/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 
-**Herramientas & Entorno**
+**Habilidades Blandas & Herramientas**
 <br/>
+<img src="https://img.shields.io/badge/Liderazgo_Técnico-FFD700?style=flat-square&logo=convertio&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -53,10 +60,10 @@ Cuento con capacidad para diseñar arquitecturas robustas utilizando tanto bases
 
 | Proyecto | Rol y Descripción | Tecnologías Clave |
 | :--- | :--- | :--- |
-| **Files2Any (SaaS)** | **Fundador y Desarrollador Principal.** Plataforma de conversión de archivos. Diseño de arquitectura escalable y gestión de servidores. | React, Node.js, API Rest |
-| **RpFarma E-commerce** | **Full Stack Developer.** Reingeniería completa del portal de ventas. Optimización de base de datos y mejora de UX/UI. | Laravel, MySQL, JavaScript |
-| **Talonario Electrónico** | **Backend Developer.** Sistema de gestión de recetas médicas con integración de pasarelas de pago y facturación. | PHP, API Integrations |
-| **Balatro AI Bot** | **Ingeniero de Software.** Desarrollo de un agente autónomo basado en visión por computador y lógica de juego. | Python, OpenCV, AI |
+| **Files2Any (SaaS)** | **Fundador y Desarrollador Principal.** Plataforma de conversión y gestión de archivos. Arquitectura escalable. | Next.js, Node.js, API Rest |
+| **RpFarma E-commerce** | **Líder Técnico.** Reingeniería de portal de ventas, optimización de base de datos y mejora de experiencia de usuario. | Laravel, MySQL, React |
+| **Talonario Electrónico** | **Backend Developer.** Sistema de gestión médica con integraciones complejas de pagos y facturación. | PHP, Integración API |
+| **Desarrollo Interactivo** | **Programador.** Investigación y desarrollo de motores y lógica interactiva de alto rendimiento. | Lua, LÖVE Framework |
 
 ---
 
