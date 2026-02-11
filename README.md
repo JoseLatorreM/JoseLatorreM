@@ -42,7 +42,7 @@ Analista Programador y Desarrollador Full Stack con enfoque en arquitecturas mod
 
 **Bases de Datos & Cloud**
 <br/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-<square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
@@ -69,5 +69,9 @@ Analista Programador y Desarrollador Full Stack con enfoque en arquitecturas mod
 
 ### Contacto Profesional
 
-<a href="https://www.linkedin.com/in/josé-latorre-946713343"></a>
-<a href="mailto:latorre.jignacio@gmail.com"></a>
+<a href="https://www.linkedin.com/in/josé-latorre-946713343" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:latorre.jignacio@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
