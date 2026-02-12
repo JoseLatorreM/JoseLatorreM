@@ -14,7 +14,7 @@
 
 ### Perfil Profesional
 
-Analista Programador y Desarrollador Full Stack con enfoque en arquitecturas modernas y liderazgo de equipos. Me especializo en la construcción de soluciones robustas utilizando **Ruby on Rails**, **Python** y el ecosistema **JavaScript** (Next.js/Nest.js), priorizando siempre la escalabilidad, el rendimiento y las buenas prácticas de código.
+Analista Programador orientado al **Liderazgo Técnico** y la **Arquitectura Empresarial**. Me especializo en diseñar soluciones seguras, escalables y optimizadas, priorizando la calidad y la evaluación preventiva de riesgos. Combino una visión estratégica para la integración de sistemas con una alta capacidad de adaptación tecnológica.
 
 ---
 
