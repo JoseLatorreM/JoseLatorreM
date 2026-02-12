@@ -5,7 +5,7 @@
   <br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Liderazgo+Técnico+y+Gestión+de+Proyectos;Especialista+en+Ruby+on+Rails+y+Python;Arquitectura+con+Nest.js+y+Next.js;Desarrollo+Full+Stack+Escalable" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=700&lines=%3E+Liderazgo+T%C3%A9cnico+y+Gesti%C3%B3n+de+Proyectos+%E2%96%88;%3E+Especialista+en+Ruby+on+Rails+%7C+Python+%E2%96%88;%3E+Arquitectura+con+Nest.js+%7C+Next.js+%E2%96%88;%3E+Desarrollo+Full+Stack+Escalable+%E2%96%88" alt="Typing SVG" />
   </a>
 </div>
 
