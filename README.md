@@ -1,18 +1,14 @@
- <div align="center">
-
+<div align="center">
   <h2>Jose Ignacio Latorre</h2>
-
   <h3>Analista Programador | Desarrollador Full Stack</h3>
-
   
+  <br/>
 
-  <a href="https://git.io/typing-svg">
-
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&pause=1000&color=2C3E50&center=true&vCenter=true&width=600&lines=Liderazgo+Técnico+y+Gestión+de+Proyectos;Especialista+en+Ruby+on+Rails+y+Python;Arquitectura+con+Nest.js+y+Next.js;Desarrollo+Full+Stack+Escalable" alt="Typing SVG" />
-
-  </a>
-
-</div> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Liderazgo+Técnico+y+Gestión+de+Proyectos;Especialista+en+Ruby+on+Rails+y+Python;Arquitectura+con+Nest.js+y+Next.js;Desarrollo+Full+Stack+Escalable">
+    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&pause=1000&color=2C3E50&center=true&vCenter=true&width=600&lines=Liderazgo+Técnico+y+Gestión+de+Proyectos;Especialista+en+Ruby+on+Rails+y+Python;Arquitectura+con+Nest.js+y+Next.js;Desarrollo+Full+Stack+Escalable">
+  </picture>
+</div>
 
 <br/>
 
@@ -24,6 +20,8 @@ Analista Programador y Desarrollador Full Stack con enfoque en arquitecturas mod
 
 ### Stack Tecnológico
 
+<div align="center">
+
 **Lenguajes**
 <br/>
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
@@ -33,6 +31,8 @@ Analista Programador y Desarrollador Full Stack con enfoque en arquitecturas mod
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
 
+<br/>
+
 **Frameworks Backend**
 <br/>
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white" />
@@ -41,11 +41,15 @@ Analista Programador y Desarrollador Full Stack con enfoque en arquitecturas mod
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 
+<br/>
+
 **Frontend & Librerías**
 <br/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/LÖVE-E54786?style=flat-square&logo=love&logoColor=white" />
+
+<br/>
 
 **Bases de Datos & Cloud**
 <br/>
@@ -54,12 +58,16 @@ Analista Programador y Desarrollador Full Stack con enfoque en arquitecturas mod
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 
+<br/>
+
 **Habilidades Blandas & Herramientas**
 <br/>
 <img src="https://img.shields.io/badge/Liderazgo_Técnico-FFD700?style=flat-square&logo=convertio&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+
+</div>
 
 ---
 
@@ -74,11 +82,14 @@ Analista Programador y Desarrollador Full Stack con enfoque en arquitecturas mod
 
 ---
 
-### Contacto Profesional
-
-<a href="https://www.linkedin.com/in/josé-latorre-946713343" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:latorre.jignacio@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<div align="center">
+  <h3>Contacto Profesional</h3>
+  
+  <a href="https://www.linkedin.com/in/josé-latorre-946713343" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:latorre.jignacio@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
